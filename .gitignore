@@ -1,0 +1,13 @@
+
+
+# Untracked directories
+.vscode/
+re/
+__pycache__/
+.idea/
+
+# Untracked files
+
+
+# Untracked file extensions
+
